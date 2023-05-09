@@ -1,7 +1,7 @@
 {
 	"name": "YF",
 	"version": "0.1.0",
-	"homepage": "http://armand-morin.github.io/YF",
+	"homepage": "https://armand-morin.github.io/YF/",
 	"private": true,
 	"scripts": {
 		"dev": "next dev",
