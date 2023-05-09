@@ -1,9 +1,11 @@
 {
-  "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
+  "/_app": "pages/_app.js",
+  "/liquidity-management": "pages/liquidity-management.html",
+  "/quant_strategies": "pages/quant_strategies.html",
+  "/staking": "pages/staking.html",
+  "/whitepaper": "pages/whitepaper.html",
+  "/": "pages/index.html",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/liquidity-management": "pages/liquidity-management.js",
-  "/quant_strategies": "pages/quant_strategies.js",
-  "/whitepaper": "pages/whitepaper.js"
+  "/404": "pages/404.html"
 }
